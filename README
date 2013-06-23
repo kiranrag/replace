@@ -1,0 +1,1 @@
+A simple Ruby code to open file, write into it and delete the text within angular brackets(including angular brackets) and store it to another file.
